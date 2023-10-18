@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227926834533",
+    "project_id": "fir-asif-9c7dc",
+    "storage_bucket": "fir-asif-9c7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227926834533:android:1666946cf6583dce2e758c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_asif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cIrq8dgtuI3QClsVF4WeM0ZX4x1IaqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
